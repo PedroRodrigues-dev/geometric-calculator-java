@@ -5,7 +5,7 @@
  */
 package com.geometric_calculator;
 
-import com.triangle_calculator.geometric_forms.Triangle;
+import com.geometric_calculator.forms.Triangle;
 
 /**
  *

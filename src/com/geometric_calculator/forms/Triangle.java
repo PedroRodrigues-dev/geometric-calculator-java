@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.triangle_calculator.geometric_forms;
+package com.geometric_calculator.forms;
 
 import com.geometric_calculator.Classify;
 import com.geometric_calculator.Operations;
